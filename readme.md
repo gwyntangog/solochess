@@ -6,3 +6,5 @@ svgtiler map.coffee test.asc test.svg
 Generalized notes:
 gen1GiraffeHeroFerzVillainSample
 gen2GridFerzHeroWazirVillainSample
+gen3TRVBWazirHeroCamelVillainSample
+gen4ZebraHeroQueenVillainSample

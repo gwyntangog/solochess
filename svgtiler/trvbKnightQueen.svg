@@ -66,33 +66,33 @@
   </symbol>
   <symbol id="Q_v9" width="45" height="45" overflow="visible">
     <line x1="22.5" y1="22.5" x2="-67.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
-    <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
   </symbol>
   <symbol id="Q_v10" width="45" height="45" overflow="visible">
     <line x1="22.5" y1="22.5" x2="-67.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
-    <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
   </symbol>
   <symbol id="Q_v11" width="45" height="45" overflow="visible">
-    <line x1="22.5" y1="22.5" x2="-22.5" y2="112.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-67.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
     <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
   </symbol>
   <symbol id="Q_v12" width="45" height="45" overflow="visible">
-    <line x1="22.5" y1="22.5" x2="-22.5" y2="112.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-67.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
     <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
   </symbol>
   <symbol id="Q_v13" width="45" height="45" overflow="visible">
-    <line x1="22.5" y1="22.5" x2="-67.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
-    <line x1="22.5" y1="22.5" x2="67.5" y2="112.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="112.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
   </symbol>
   <symbol id="Q_v14" width="45" height="45" overflow="visible">
-    <line x1="22.5" y1="22.5" x2="-67.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
-    <line x1="22.5" y1="22.5" x2="67.5" y2="112.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="112.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
   </symbol>
   <symbol id="Q_v15" width="45" height="45" overflow="visible">
     <line x1="22.5" y1="22.5" x2="-67.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="112.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
   </symbol>
   <symbol id="Q_v16" width="45" height="45" overflow="visible">
     <line x1="22.5" y1="22.5" x2="-67.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="112.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
   </symbol>
   <use xlink:href="#_20" x="0" y="0"/>
   <use xlink:href="#_20_v1" x="45" y="0"/>
@@ -728,30 +728,32 @@
   <use xlink:href="#Q_v5" x="900" y="225"/>
   <use xlink:href="#Q_v7" x="360" y="270"/>
   <use xlink:href="#Q" x="720" y="270"/>
+  <use xlink:href="#Q_v9" x="1125" y="270"/>
   <use xlink:href="#Q_v7" x="450" y="315"/>
-  <use xlink:href="#Q_v9" x="855" y="315"/>
+  <use xlink:href="#Q_v11" x="855" y="315"/>
+  <use xlink:href="#Q_v9" x="1035" y="315"/>
   <use xlink:href="#Q_v7" x="540" y="360"/>
   <use xlink:href="#Q_v5" x="765" y="360"/>
   <use xlink:href="#Q" x="945" y="360"/>
   <use xlink:href="#Q_v7" x="630" y="405"/>
   <use xlink:href="#Q" x="720" y="450"/>
-  <use xlink:href="#Q_v11" x="990" y="450"/>
+  <use xlink:href="#Q_v13" x="990" y="450"/>
   <use xlink:href="#Q_v7" x="1080" y="495"/>
-  <use xlink:href="#Q_v9" x="765" y="540"/>
-  <use xlink:href="#Q_v13" x="945" y="540"/>
-  <use xlink:href="#Q_v15" x="675" y="585"/>
+  <use xlink:href="#Q_v11" x="765" y="540"/>
+  <use xlink:href="#Q_v15" x="945" y="540"/>
+  <use xlink:href="#Q_v9" x="675" y="585"/>
   <use xlink:href="#Q_v5" x="855" y="585"/>
-  <use xlink:href="#Q_v15" x="585" y="630"/>
+  <use xlink:href="#Q_v9" x="585" y="630"/>
   <use xlink:href="#Q" x="990" y="630"/>
-  <use xlink:href="#Q_v15" x="495" y="675"/>
+  <use xlink:href="#Q_v9" x="495" y="675"/>
   <use xlink:href="#Q" x="810" y="675"/>
-  <use xlink:href="#Q_v15" x="405" y="720"/>
-  <use xlink:href="#Q_v15" x="315" y="765"/>
+  <use xlink:href="#Q_v9" x="405" y="720"/>
+  <use xlink:href="#Q_v9" x="315" y="765"/>
   <use xlink:href="#Q" x="855" y="765"/>
-  <use xlink:href="#Q_v15" x="225" y="810"/>
-  <use xlink:href="#Q_v15" x="135" y="855"/>
-  <use xlink:href="#Q_v11" x="720" y="855"/>
-  <use xlink:href="#Q_v15" x="900" y="855"/>
+  <use xlink:href="#Q_v9" x="225" y="810"/>
+  <use xlink:href="#Q_v9" x="135" y="855"/>
+  <use xlink:href="#Q_v13" x="720" y="855"/>
+  <use xlink:href="#Q_v9" x="900" y="855"/>
   <use xlink:href="#Q_v1" x="585" y="0"/>
   <use xlink:href="#Q_v4" x="720" y="45"/>
   <use xlink:href="#Q_v6" x="990" y="45"/>
@@ -765,30 +767,32 @@
   <use xlink:href="#Q_v6" x="900" y="225"/>
   <use xlink:href="#Q_v8" x="360" y="270"/>
   <use xlink:href="#Q_v1" x="720" y="270"/>
+  <use xlink:href="#Q_v10" x="1125" y="270"/>
   <use xlink:href="#Q_v8" x="450" y="315"/>
-  <use xlink:href="#Q_v10" x="855" y="315"/>
+  <use xlink:href="#Q_v12" x="855" y="315"/>
+  <use xlink:href="#Q_v10" x="1035" y="315"/>
   <use xlink:href="#Q_v8" x="540" y="360"/>
   <use xlink:href="#Q_v6" x="765" y="360"/>
   <use xlink:href="#Q_v1" x="945" y="360"/>
   <use xlink:href="#Q_v8" x="630" y="405"/>
   <use xlink:href="#Q_v1" x="720" y="450"/>
-  <use xlink:href="#Q_v12" x="990" y="450"/>
+  <use xlink:href="#Q_v14" x="990" y="450"/>
   <use xlink:href="#Q_v8" x="1080" y="495"/>
-  <use xlink:href="#Q_v10" x="765" y="540"/>
-  <use xlink:href="#Q_v14" x="945" y="540"/>
-  <use xlink:href="#Q_v16" x="675" y="585"/>
+  <use xlink:href="#Q_v12" x="765" y="540"/>
+  <use xlink:href="#Q_v16" x="945" y="540"/>
+  <use xlink:href="#Q_v10" x="675" y="585"/>
   <use xlink:href="#Q_v6" x="855" y="585"/>
-  <use xlink:href="#Q_v16" x="585" y="630"/>
+  <use xlink:href="#Q_v10" x="585" y="630"/>
   <use xlink:href="#Q_v1" x="990" y="630"/>
-  <use xlink:href="#Q_v16" x="495" y="675"/>
+  <use xlink:href="#Q_v10" x="495" y="675"/>
   <use xlink:href="#Q_v1" x="810" y="675"/>
-  <use xlink:href="#Q_v16" x="405" y="720"/>
-  <use xlink:href="#Q_v16" x="315" y="765"/>
+  <use xlink:href="#Q_v10" x="405" y="720"/>
+  <use xlink:href="#Q_v10" x="315" y="765"/>
   <use xlink:href="#Q_v1" x="855" y="765"/>
-  <use xlink:href="#Q_v16" x="225" y="810"/>
-  <use xlink:href="#Q_v16" x="135" y="855"/>
-  <use xlink:href="#Q_v12" x="720" y="855"/>
-  <use xlink:href="#Q_v16" x="900" y="855"/>
+  <use xlink:href="#Q_v10" x="225" y="810"/>
+  <use xlink:href="#Q_v10" x="135" y="855"/>
+  <use xlink:href="#Q_v14" x="720" y="855"/>
+  <use xlink:href="#Q_v10" x="900" y="855"/>
   <use xlink:href="#Q_v2" x="585" y="0"/>
   <use xlink:href="#Q_v2" x="720" y="45"/>
   <use xlink:href="#Q_v2" x="990" y="45"/>
@@ -803,8 +807,10 @@
   <use xlink:href="#Q_v2" x="900" y="225"/>
   <use xlink:href="#Q_v2" x="360" y="270"/>
   <use xlink:href="#Q_v2" x="720" y="270"/>
+  <use xlink:href="#Q_v2" x="1125" y="270"/>
   <use xlink:href="#Q_v2" x="450" y="315"/>
   <use xlink:href="#Q_v2" x="855" y="315"/>
+  <use xlink:href="#Q_v2" x="1035" y="315"/>
   <use xlink:href="#Q_v2" x="540" y="360"/>
   <use xlink:href="#Q_v2" x="765" y="360"/>
   <use xlink:href="#Q_v2" x="945" y="360"/>
