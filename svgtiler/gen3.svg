@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 765 765" width="765" height="765" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="_20" width="45" height="45" overflow="visible">
+    <rect width="45" height="45" fill="#eee"/>
+  </symbol>
+  <symbol id="_20_v1" width="45" height="45" overflow="visible">
+    <rect width="45" height="45" fill="#ccc"/>
+  </symbol>
+  <symbol id="C" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v1" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v2" width="45" height="45" overflow="visible">
+    <g fill-rule="evenodd" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" transform="rotate(180 22 22)">
+      <path d="M 22,10 C 32.5,11 38.5,18 38,39 L 15,39 C 15,30 25,32.5 23,18" fill="#000" stroke="#000"/>
+      <path d="M 24,18 C 24.38,20.91 18.45,25.37 16,27 C 13,29 13.18,31.34 11,31 C 9.958,30.06 12.41,27.96 11,28 C 10,28 11.19,29.23 10,30 C 9,30 5.997,31 6,26 C 6,24 12,14 12,14 C 12,14 13.89,12.1 14,10.5 C 13.27,9.506 13.5,8.5 13.5,7.5 C 14.5,6.5 16.5,10 16.5,10 L 18.5,10 C 18.5,10 19.28,8.008 21,7 C 22,7 22,10 22,10" fill="#000" stroke="#000"/>
+      <path d="M 9.5 25.5 A 0.5 0.5 0 1 1 8.5,25.5 A 0.5 0.5 0 1 1 9.5 25.5 z" fill="#fff" stroke="#fff"/>
+      <path d="M 15 15.5 A 0.5 1.5 0 1 1  14,15.5 A 0.5 1.5 0 1 1  15 15.5 z" transform="matrix(0.866,0.5,-0.5,0.866,9.693,-5.173)" fill="#fff" stroke="#fff"/>
+      <path d="M 24.55,10.4 L 24.1,11.85 L 24.6,12 C 27.75,13 30.25,14.49 32.5,18.75 C 34.75,23.01 35.75,29.06 35.25,39 L 35.2,39.5 L 37.45,39.5 L 37.5,39 C 38,28.94 36.62,22.15 34.25,17.66 C 31.88,13.17 28.46,11.02 25.06,10.5 L 24.55,10.4 z " fill="#fff" stroke="none"/>
+    </g>
+  </symbol>
+  <symbol id="C_v3" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v4" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v5" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v6" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v7" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v8" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v9" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v10" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v11" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v12" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v13" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v14" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v15" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v16" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v17" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v18" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v19" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v20" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v21" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v22" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v23" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v24" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v25" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v26" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v27" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v28" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v29" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v30" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v31" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v32" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v33" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v34" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v35" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v36" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v37" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v38" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v39" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v40" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v41" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v42" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v43" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v44" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v45" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v46" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v47" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v48" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v49" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v50" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v51" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v52" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v53" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v54" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v55" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v56" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v57" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v58" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v59" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v60" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v61" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v62" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="157.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v63" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v64" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="22.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="67.5" y2="22.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v65" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v66" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-112.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v67" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="C_v68" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="157.5" y2="67.5" stroke="hsl(0,65%,50%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <use xlink:href="#_20" x="0" y="0"/>
+  <use xlink:href="#_20_v1" x="45" y="0"/>
+  <use xlink:href="#_20" x="90" y="0"/>
+  <use xlink:href="#_20_v1" x="135" y="0"/>
+  <use xlink:href="#_20" x="180" y="0"/>
+  <use xlink:href="#_20_v1" x="225" y="0"/>
+  <use xlink:href="#_20" x="270" y="0"/>
+  <use xlink:href="#_20_v1" x="315" y="0"/>
+  <use xlink:href="#_20" x="360" y="0"/>
+  <use xlink:href="#_20_v1" x="405" y="0"/>
+  <use xlink:href="#_20" x="450" y="0"/>
+  <use xlink:href="#_20_v1" x="495" y="0"/>
+  <use xlink:href="#_20" x="540" y="0"/>
+  <use xlink:href="#_20_v1" x="585" y="0"/>
+  <use xlink:href="#_20" x="630" y="0"/>
+  <use xlink:href="#_20_v1" x="675" y="0"/>
+  <use xlink:href="#_20" x="720" y="0"/>
+  <use xlink:href="#_20_v1" x="0" y="45"/>
+  <use xlink:href="#_20" x="45" y="45"/>
+  <use xlink:href="#_20_v1" x="90" y="45"/>
+  <use xlink:href="#_20" x="135" y="45"/>
+  <use xlink:href="#_20_v1" x="180" y="45"/>
+  <use xlink:href="#_20" x="225" y="45"/>
+  <use xlink:href="#_20_v1" x="270" y="45"/>
+  <use xlink:href="#_20" x="315" y="45"/>
+  <use xlink:href="#_20_v1" x="360" y="45"/>
+  <use xlink:href="#_20" x="405" y="45"/>
+  <use xlink:href="#_20_v1" x="450" y="45"/>
+  <use xlink:href="#_20" x="495" y="45"/>
+  <use xlink:href="#_20_v1" x="540" y="45"/>
+  <use xlink:href="#_20" x="585" y="45"/>
+  <use xlink:href="#_20_v1" x="630" y="45"/>
+  <use xlink:href="#_20" x="675" y="45"/>
+  <use xlink:href="#_20_v1" x="720" y="45"/>
+  <use xlink:href="#_20" x="0" y="90"/>
+  <use xlink:href="#_20_v1" x="45" y="90"/>
+  <use xlink:href="#_20" x="90" y="90"/>
+  <use xlink:href="#_20_v1" x="135" y="90"/>
+  <use xlink:href="#_20" x="180" y="90"/>
+  <use xlink:href="#_20_v1" x="225" y="90"/>
+  <use xlink:href="#_20" x="270" y="90"/>
+  <use xlink:href="#_20_v1" x="315" y="90"/>
+  <use xlink:href="#_20" x="360" y="90"/>
+  <use xlink:href="#_20_v1" x="405" y="90"/>
+  <use xlink:href="#_20" x="450" y="90"/>
+  <use xlink:href="#_20_v1" x="495" y="90"/>
+  <use xlink:href="#_20" x="540" y="90"/>
+  <use xlink:href="#_20_v1" x="585" y="90"/>
+  <use xlink:href="#_20" x="630" y="90"/>
+  <use xlink:href="#_20_v1" x="675" y="90"/>
+  <use xlink:href="#_20" x="720" y="90"/>
+  <use xlink:href="#_20_v1" x="0" y="135"/>
+  <use xlink:href="#_20" x="45" y="135"/>
+  <use xlink:href="#_20_v1" x="90" y="135"/>
+  <use xlink:href="#_20" x="135" y="135"/>
+  <use xlink:href="#_20_v1" x="180" y="135"/>
+  <use xlink:href="#_20" x="225" y="135"/>
+  <use xlink:href="#_20_v1" x="270" y="135"/>
+  <use xlink:href="#_20" x="315" y="135"/>
+  <use xlink:href="#_20_v1" x="360" y="135"/>
+  <use xlink:href="#_20" x="405" y="135"/>
+  <use xlink:href="#_20_v1" x="450" y="135"/>
+  <use xlink:href="#_20" x="495" y="135"/>
+  <use xlink:href="#_20_v1" x="540" y="135"/>
+  <use xlink:href="#_20" x="585" y="135"/>
+  <use xlink:href="#_20_v1" x="630" y="135"/>
+  <use xlink:href="#_20" x="675" y="135"/>
+  <use xlink:href="#_20_v1" x="720" y="135"/>
+  <use xlink:href="#_20" x="0" y="180"/>
+  <use xlink:href="#_20_v1" x="45" y="180"/>
+  <use xlink:href="#_20" x="90" y="180"/>
+  <use xlink:href="#_20_v1" x="135" y="180"/>
+  <use xlink:href="#_20" x="180" y="180"/>
+  <use xlink:href="#_20_v1" x="225" y="180"/>
+  <use xlink:href="#_20" x="270" y="180"/>
+  <use xlink:href="#_20_v1" x="315" y="180"/>
+  <use xlink:href="#_20" x="360" y="180"/>
+  <use xlink:href="#_20_v1" x="405" y="180"/>
+  <use xlink:href="#_20" x="450" y="180"/>
+  <use xlink:href="#_20_v1" x="495" y="180"/>
+  <use xlink:href="#_20" x="540" y="180"/>
+  <use xlink:href="#_20_v1" x="585" y="180"/>
+  <use xlink:href="#_20" x="630" y="180"/>
+  <use xlink:href="#_20_v1" x="675" y="180"/>
+  <use xlink:href="#_20" x="720" y="180"/>
+  <use xlink:href="#_20_v1" x="0" y="225"/>
+  <use xlink:href="#_20" x="45" y="225"/>
+  <use xlink:href="#_20_v1" x="90" y="225"/>
+  <use xlink:href="#_20" x="135" y="225"/>
+  <use xlink:href="#_20_v1" x="180" y="225"/>
+  <use xlink:href="#_20" x="225" y="225"/>
+  <use xlink:href="#_20_v1" x="270" y="225"/>
+  <use xlink:href="#_20" x="315" y="225"/>
+  <use xlink:href="#_20_v1" x="360" y="225"/>
+  <use xlink:href="#_20" x="405" y="225"/>
+  <use xlink:href="#_20_v1" x="450" y="225"/>
+  <use xlink:href="#_20" x="495" y="225"/>
+  <use xlink:href="#_20_v1" x="540" y="225"/>
+  <use xlink:href="#_20" x="585" y="225"/>
+  <use xlink:href="#_20_v1" x="630" y="225"/>
+  <use xlink:href="#_20" x="675" y="225"/>
+  <use xlink:href="#_20_v1" x="720" y="225"/>
+  <use xlink:href="#_20" x="0" y="270"/>
+  <use xlink:href="#_20_v1" x="45" y="270"/>
+  <use xlink:href="#_20" x="90" y="270"/>
+  <use xlink:href="#_20_v1" x="135" y="270"/>
+  <use xlink:href="#_20" x="180" y="270"/>
+  <use xlink:href="#_20_v1" x="225" y="270"/>
+  <use xlink:href="#_20" x="270" y="270"/>
+  <use xlink:href="#_20_v1" x="315" y="270"/>
+  <use xlink:href="#_20" x="360" y="270"/>
+  <use xlink:href="#_20_v1" x="405" y="270"/>
+  <use xlink:href="#_20" x="450" y="270"/>
+  <use xlink:href="#_20_v1" x="495" y="270"/>
+  <use xlink:href="#_20" x="540" y="270"/>
+  <use xlink:href="#_20_v1" x="585" y="270"/>
+  <use xlink:href="#_20" x="630" y="270"/>
+  <use xlink:href="#_20_v1" x="675" y="270"/>
+  <use xlink:href="#_20" x="720" y="270"/>
+  <use xlink:href="#_20_v1" x="0" y="315"/>
+  <use xlink:href="#_20" x="45" y="315"/>
+  <use xlink:href="#_20_v1" x="90" y="315"/>
+  <use xlink:href="#_20" x="135" y="315"/>
+  <use xlink:href="#_20_v1" x="180" y="315"/>
+  <use xlink:href="#_20" x="225" y="315"/>
+  <use xlink:href="#_20_v1" x="270" y="315"/>
+  <use xlink:href="#_20" x="315" y="315"/>
+  <use xlink:href="#_20_v1" x="360" y="315"/>
+  <use xlink:href="#_20" x="405" y="315"/>
+  <use xlink:href="#_20_v1" x="450" y="315"/>
+  <use xlink:href="#_20" x="495" y="315"/>
+  <use xlink:href="#_20_v1" x="540" y="315"/>
+  <use xlink:href="#_20" x="585" y="315"/>
+  <use xlink:href="#_20_v1" x="630" y="315"/>
+  <use xlink:href="#_20" x="675" y="315"/>
+  <use xlink:href="#_20_v1" x="720" y="315"/>
+  <use xlink:href="#_20" x="0" y="360"/>
+  <use xlink:href="#_20_v1" x="45" y="360"/>
+  <use xlink:href="#_20" x="90" y="360"/>
+  <use xlink:href="#_20_v1" x="135" y="360"/>
+  <use xlink:href="#_20" x="180" y="360"/>
+  <use xlink:href="#_20_v1" x="225" y="360"/>
+  <use xlink:href="#_20" x="270" y="360"/>
+  <use xlink:href="#_20_v1" x="315" y="360"/>
+  <use xlink:href="#_20" x="360" y="360"/>
+  <use xlink:href="#_20_v1" x="405" y="360"/>
+  <use xlink:href="#_20" x="450" y="360"/>
+  <use xlink:href="#_20_v1" x="495" y="360"/>
+  <use xlink:href="#_20" x="540" y="360"/>
+  <use xlink:href="#_20_v1" x="585" y="360"/>
+  <use xlink:href="#_20" x="630" y="360"/>
+  <use xlink:href="#_20_v1" x="675" y="360"/>
+  <use xlink:href="#_20" x="720" y="360"/>
+  <use xlink:href="#_20_v1" x="0" y="405"/>
+  <use xlink:href="#_20" x="45" y="405"/>
+  <use xlink:href="#_20_v1" x="90" y="405"/>
+  <use xlink:href="#_20" x="135" y="405"/>
+  <use xlink:href="#_20_v1" x="180" y="405"/>
+  <use xlink:href="#_20" x="225" y="405"/>
+  <use xlink:href="#_20_v1" x="270" y="405"/>
+  <use xlink:href="#_20" x="315" y="405"/>
+  <use xlink:href="#_20_v1" x="360" y="405"/>
+  <use xlink:href="#_20" x="405" y="405"/>
+  <use xlink:href="#_20_v1" x="450" y="405"/>
+  <use xlink:href="#_20" x="495" y="405"/>
+  <use xlink:href="#_20_v1" x="540" y="405"/>
+  <use xlink:href="#_20" x="585" y="405"/>
+  <use xlink:href="#_20_v1" x="630" y="405"/>
+  <use xlink:href="#_20" x="675" y="405"/>
+  <use xlink:href="#_20_v1" x="720" y="405"/>
+  <use xlink:href="#_20" x="0" y="450"/>
+  <use xlink:href="#_20_v1" x="45" y="450"/>
+  <use xlink:href="#_20" x="90" y="450"/>
+  <use xlink:href="#_20_v1" x="135" y="450"/>
+  <use xlink:href="#_20" x="180" y="450"/>
+  <use xlink:href="#_20_v1" x="225" y="450"/>
+  <use xlink:href="#_20" x="270" y="450"/>
+  <use xlink:href="#_20_v1" x="315" y="450"/>
+  <use xlink:href="#_20" x="360" y="450"/>
+  <use xlink:href="#_20_v1" x="405" y="450"/>
+  <use xlink:href="#_20" x="450" y="450"/>
+  <use xlink:href="#_20_v1" x="495" y="450"/>
+  <use xlink:href="#_20" x="540" y="450"/>
+  <use xlink:href="#_20_v1" x="585" y="450"/>
+  <use xlink:href="#_20" x="630" y="450"/>
+  <use xlink:href="#_20_v1" x="675" y="450"/>
+  <use xlink:href="#_20" x="720" y="450"/>
+  <use xlink:href="#_20_v1" x="0" y="495"/>
+  <use xlink:href="#_20" x="45" y="495"/>
+  <use xlink:href="#_20_v1" x="90" y="495"/>
+  <use xlink:href="#_20" x="135" y="495"/>
+  <use xlink:href="#_20_v1" x="180" y="495"/>
+  <use xlink:href="#_20" x="225" y="495"/>
+  <use xlink:href="#_20_v1" x="270" y="495"/>
+  <use xlink:href="#_20" x="315" y="495"/>
+  <use xlink:href="#_20_v1" x="360" y="495"/>
+  <use xlink:href="#_20" x="405" y="495"/>
+  <use xlink:href="#_20_v1" x="450" y="495"/>
+  <use xlink:href="#_20" x="495" y="495"/>
+  <use xlink:href="#_20_v1" x="540" y="495"/>
+  <use xlink:href="#_20" x="585" y="495"/>
+  <use xlink:href="#_20_v1" x="630" y="495"/>
+  <use xlink:href="#_20" x="675" y="495"/>
+  <use xlink:href="#_20_v1" x="720" y="495"/>
+  <use xlink:href="#_20" x="0" y="540"/>
+  <use xlink:href="#_20_v1" x="45" y="540"/>
+  <use xlink:href="#_20" x="90" y="540"/>
+  <use xlink:href="#_20_v1" x="135" y="540"/>
+  <use xlink:href="#_20" x="180" y="540"/>
+  <use xlink:href="#_20_v1" x="225" y="540"/>
+  <use xlink:href="#_20" x="270" y="540"/>
+  <use xlink:href="#_20_v1" x="315" y="540"/>
+  <use xlink:href="#_20" x="360" y="540"/>
+  <use xlink:href="#_20_v1" x="405" y="540"/>
+  <use xlink:href="#_20" x="450" y="540"/>
+  <use xlink:href="#_20_v1" x="495" y="540"/>
+  <use xlink:href="#_20" x="540" y="540"/>
+  <use xlink:href="#_20_v1" x="585" y="540"/>
+  <use xlink:href="#_20" x="630" y="540"/>
+  <use xlink:href="#_20_v1" x="675" y="540"/>
+  <use xlink:href="#_20" x="720" y="540"/>
+  <use xlink:href="#_20_v1" x="0" y="585"/>
+  <use xlink:href="#_20" x="45" y="585"/>
+  <use xlink:href="#_20_v1" x="90" y="585"/>
+  <use xlink:href="#_20" x="135" y="585"/>
+  <use xlink:href="#_20_v1" x="180" y="585"/>
+  <use xlink:href="#_20" x="225" y="585"/>
+  <use xlink:href="#_20_v1" x="270" y="585"/>
+  <use xlink:href="#_20" x="315" y="585"/>
+  <use xlink:href="#_20_v1" x="360" y="585"/>
+  <use xlink:href="#_20" x="405" y="585"/>
+  <use xlink:href="#_20_v1" x="450" y="585"/>
+  <use xlink:href="#_20" x="495" y="585"/>
+  <use xlink:href="#_20_v1" x="540" y="585"/>
+  <use xlink:href="#_20" x="585" y="585"/>
+  <use xlink:href="#_20_v1" x="630" y="585"/>
+  <use xlink:href="#_20" x="675" y="585"/>
+  <use xlink:href="#_20_v1" x="720" y="585"/>
+  <use xlink:href="#_20" x="0" y="630"/>
+  <use xlink:href="#_20_v1" x="45" y="630"/>
+  <use xlink:href="#_20" x="90" y="630"/>
+  <use xlink:href="#_20_v1" x="135" y="630"/>
+  <use xlink:href="#_20" x="180" y="630"/>
+  <use xlink:href="#_20_v1" x="225" y="630"/>
+  <use xlink:href="#_20" x="270" y="630"/>
+  <use xlink:href="#_20_v1" x="315" y="630"/>
+  <use xlink:href="#_20" x="360" y="630"/>
+  <use xlink:href="#_20_v1" x="405" y="630"/>
+  <use xlink:href="#_20" x="450" y="630"/>
+  <use xlink:href="#_20_v1" x="495" y="630"/>
+  <use xlink:href="#_20" x="540" y="630"/>
+  <use xlink:href="#_20_v1" x="585" y="630"/>
+  <use xlink:href="#_20" x="630" y="630"/>
+  <use xlink:href="#_20_v1" x="675" y="630"/>
+  <use xlink:href="#_20" x="720" y="630"/>
+  <use xlink:href="#_20_v1" x="0" y="675"/>
+  <use xlink:href="#_20" x="45" y="675"/>
+  <use xlink:href="#_20_v1" x="90" y="675"/>
+  <use xlink:href="#_20" x="135" y="675"/>
+  <use xlink:href="#_20_v1" x="180" y="675"/>
+  <use xlink:href="#_20" x="225" y="675"/>
+  <use xlink:href="#_20_v1" x="270" y="675"/>
+  <use xlink:href="#_20" x="315" y="675"/>
+  <use xlink:href="#_20_v1" x="360" y="675"/>
+  <use xlink:href="#_20" x="405" y="675"/>
+  <use xlink:href="#_20_v1" x="450" y="675"/>
+  <use xlink:href="#_20" x="495" y="675"/>
+  <use xlink:href="#_20_v1" x="540" y="675"/>
+  <use xlink:href="#_20" x="585" y="675"/>
+  <use xlink:href="#_20_v1" x="630" y="675"/>
+  <use xlink:href="#_20" x="675" y="675"/>
+  <use xlink:href="#_20_v1" x="720" y="675"/>
+  <use xlink:href="#_20" x="0" y="720"/>
+  <use xlink:href="#_20_v1" x="45" y="720"/>
+  <use xlink:href="#_20" x="90" y="720"/>
+  <use xlink:href="#_20_v1" x="135" y="720"/>
+  <use xlink:href="#_20" x="180" y="720"/>
+  <use xlink:href="#_20_v1" x="225" y="720"/>
+  <use xlink:href="#_20" x="270" y="720"/>
+  <use xlink:href="#_20_v1" x="315" y="720"/>
+  <use xlink:href="#_20" x="360" y="720"/>
+  <use xlink:href="#_20_v1" x="405" y="720"/>
+  <use xlink:href="#_20" x="450" y="720"/>
+  <use xlink:href="#_20_v1" x="495" y="720"/>
+  <use xlink:href="#_20" x="540" y="720"/>
+  <use xlink:href="#_20_v1" x="585" y="720"/>
+  <use xlink:href="#_20" x="630" y="720"/>
+  <use xlink:href="#_20_v1" x="675" y="720"/>
+  <use xlink:href="#_20" x="720" y="720"/>
+  <use xlink:href="#C" x="180" y="0"/>
+  <use xlink:href="#C" x="360" y="0"/>
+  <use xlink:href="#C" x="180" y="45"/>
+  <use xlink:href="#C" x="360" y="45"/>
+  <use xlink:href="#C_v3" x="180" y="90"/>
+  <use xlink:href="#C" x="360" y="90"/>
+  <use xlink:href="#C_v3" x="180" y="135"/>
+  <use xlink:href="#C_v5" x="360" y="135"/>
+  <use xlink:href="#C" x="180" y="180"/>
+  <use xlink:href="#C_v7" x="360" y="180"/>
+  <use xlink:href="#C_v9" x="495" y="180"/>
+  <use xlink:href="#C_v11" x="540" y="180"/>
+  <use xlink:href="#C_v13" x="585" y="180"/>
+  <use xlink:href="#C_v13" x="630" y="180"/>
+  <use xlink:href="#C_v11" x="675" y="180"/>
+  <use xlink:href="#C_v15" x="180" y="225"/>
+  <use xlink:href="#C_v17" x="225" y="225"/>
+  <use xlink:href="#C_v19" x="360" y="225"/>
+  <use xlink:href="#C_v21" x="450" y="225"/>
+  <use xlink:href="#C_v23" x="495" y="225"/>
+  <use xlink:href="#C_v25" x="225" y="270"/>
+  <use xlink:href="#C_v5" x="270" y="270"/>
+  <use xlink:href="#C_v21" x="360" y="270"/>
+  <use xlink:href="#C_v27" x="405" y="270"/>
+  <use xlink:href="#C_v29" x="450" y="270"/>
+  <use xlink:href="#C_v31" x="270" y="315"/>
+  <use xlink:href="#C_v33" x="315" y="315"/>
+  <use xlink:href="#C_v35" x="360" y="315"/>
+  <use xlink:href="#C_v7" x="405" y="315"/>
+  <use xlink:href="#C_v11" x="0" y="360"/>
+  <use xlink:href="#C_v11" x="45" y="360"/>
+  <use xlink:href="#C_v11" x="90" y="360"/>
+  <use xlink:href="#C_v11" x="135" y="360"/>
+  <use xlink:href="#C_v37" x="180" y="360"/>
+  <use xlink:href="#C_v37" x="225" y="360"/>
+  <use xlink:href="#C_v39" x="270" y="360"/>
+  <use xlink:href="#C_v17" x="315" y="360"/>
+  <use xlink:href="#C_v41" x="405" y="360"/>
+  <use xlink:href="#C_v43" x="450" y="360"/>
+  <use xlink:href="#C_v45" x="495" y="360"/>
+  <use xlink:href="#C_v47" x="540" y="360"/>
+  <use xlink:href="#C_v47" x="585" y="360"/>
+  <use xlink:href="#C_v11" x="630" y="360"/>
+  <use xlink:href="#C_v11" x="675" y="360"/>
+  <use xlink:href="#C_v49" x="315" y="405"/>
+  <use xlink:href="#C_v51" x="360" y="405"/>
+  <use xlink:href="#C_v47" x="405" y="405"/>
+  <use xlink:href="#C_v53" x="450" y="405"/>
+  <use xlink:href="#C_v55" x="270" y="450"/>
+  <use xlink:href="#C_v57" x="315" y="450"/>
+  <use xlink:href="#C_v59" x="360" y="450"/>
+  <use xlink:href="#C_v11" x="450" y="450"/>
+  <use xlink:href="#C_v61" x="495" y="450"/>
+  <use xlink:href="#C_v63" x="225" y="495"/>
+  <use xlink:href="#C_v65" x="270" y="495"/>
+  <use xlink:href="#C_v53" x="360" y="495"/>
+  <use xlink:href="#C_v45" x="495" y="495"/>
+  <use xlink:href="#C" x="540" y="495"/>
+  <use xlink:href="#C_v11" x="0" y="540"/>
+  <use xlink:href="#C_v11" x="45" y="540"/>
+  <use xlink:href="#C_v11" x="90" y="540"/>
+  <use xlink:href="#C_v11" x="135" y="540"/>
+  <use xlink:href="#C_v11" x="180" y="540"/>
+  <use xlink:href="#C_v67" x="225" y="540"/>
+  <use xlink:href="#C" x="360" y="540"/>
+  <use xlink:href="#C" x="540" y="540"/>
+  <use xlink:href="#C" x="360" y="585"/>
+  <use xlink:href="#C" x="540" y="585"/>
+  <use xlink:href="#C" x="360" y="630"/>
+  <use xlink:href="#C" x="540" y="630"/>
+  <use xlink:href="#C" x="360" y="675"/>
+  <use xlink:href="#C" x="540" y="675"/>
+  <use xlink:href="#C_v1" x="180" y="0"/>
+  <use xlink:href="#C_v1" x="360" y="0"/>
+  <use xlink:href="#C_v1" x="180" y="45"/>
+  <use xlink:href="#C_v1" x="360" y="45"/>
+  <use xlink:href="#C_v4" x="180" y="90"/>
+  <use xlink:href="#C_v1" x="360" y="90"/>
+  <use xlink:href="#C_v4" x="180" y="135"/>
+  <use xlink:href="#C_v6" x="360" y="135"/>
+  <use xlink:href="#C_v1" x="180" y="180"/>
+  <use xlink:href="#C_v8" x="360" y="180"/>
+  <use xlink:href="#C_v10" x="495" y="180"/>
+  <use xlink:href="#C_v12" x="540" y="180"/>
+  <use xlink:href="#C_v14" x="585" y="180"/>
+  <use xlink:href="#C_v14" x="630" y="180"/>
+  <use xlink:href="#C_v12" x="675" y="180"/>
+  <use xlink:href="#C_v16" x="180" y="225"/>
+  <use xlink:href="#C_v18" x="225" y="225"/>
+  <use xlink:href="#C_v20" x="360" y="225"/>
+  <use xlink:href="#C_v22" x="450" y="225"/>
+  <use xlink:href="#C_v24" x="495" y="225"/>
+  <use xlink:href="#C_v26" x="225" y="270"/>
+  <use xlink:href="#C_v6" x="270" y="270"/>
+  <use xlink:href="#C_v22" x="360" y="270"/>
+  <use xlink:href="#C_v28" x="405" y="270"/>
+  <use xlink:href="#C_v30" x="450" y="270"/>
+  <use xlink:href="#C_v32" x="270" y="315"/>
+  <use xlink:href="#C_v34" x="315" y="315"/>
+  <use xlink:href="#C_v36" x="360" y="315"/>
+  <use xlink:href="#C_v8" x="405" y="315"/>
+  <use xlink:href="#C_v12" x="0" y="360"/>
+  <use xlink:href="#C_v12" x="45" y="360"/>
+  <use xlink:href="#C_v12" x="90" y="360"/>
+  <use xlink:href="#C_v12" x="135" y="360"/>
+  <use xlink:href="#C_v38" x="180" y="360"/>
+  <use xlink:href="#C_v38" x="225" y="360"/>
+  <use xlink:href="#C_v40" x="270" y="360"/>
+  <use xlink:href="#C_v18" x="315" y="360"/>
+  <use xlink:href="#C_v42" x="405" y="360"/>
+  <use xlink:href="#C_v44" x="450" y="360"/>
+  <use xlink:href="#C_v46" x="495" y="360"/>
+  <use xlink:href="#C_v48" x="540" y="360"/>
+  <use xlink:href="#C_v48" x="585" y="360"/>
+  <use xlink:href="#C_v12" x="630" y="360"/>
+  <use xlink:href="#C_v12" x="675" y="360"/>
+  <use xlink:href="#C_v50" x="315" y="405"/>
+  <use xlink:href="#C_v52" x="360" y="405"/>
+  <use xlink:href="#C_v48" x="405" y="405"/>
+  <use xlink:href="#C_v54" x="450" y="405"/>
+  <use xlink:href="#C_v56" x="270" y="450"/>
+  <use xlink:href="#C_v58" x="315" y="450"/>
+  <use xlink:href="#C_v60" x="360" y="450"/>
+  <use xlink:href="#C_v12" x="450" y="450"/>
+  <use xlink:href="#C_v62" x="495" y="450"/>
+  <use xlink:href="#C_v64" x="225" y="495"/>
+  <use xlink:href="#C_v66" x="270" y="495"/>
+  <use xlink:href="#C_v54" x="360" y="495"/>
+  <use xlink:href="#C_v46" x="495" y="495"/>
+  <use xlink:href="#C_v1" x="540" y="495"/>
+  <use xlink:href="#C_v12" x="0" y="540"/>
+  <use xlink:href="#C_v12" x="45" y="540"/>
+  <use xlink:href="#C_v12" x="90" y="540"/>
+  <use xlink:href="#C_v12" x="135" y="540"/>
+  <use xlink:href="#C_v12" x="180" y="540"/>
+  <use xlink:href="#C_v68" x="225" y="540"/>
+  <use xlink:href="#C_v1" x="360" y="540"/>
+  <use xlink:href="#C_v1" x="540" y="540"/>
+  <use xlink:href="#C_v1" x="360" y="585"/>
+  <use xlink:href="#C_v1" x="540" y="585"/>
+  <use xlink:href="#C_v1" x="360" y="630"/>
+  <use xlink:href="#C_v1" x="540" y="630"/>
+  <use xlink:href="#C_v1" x="360" y="675"/>
+  <use xlink:href="#C_v1" x="540" y="675"/>
+  <use xlink:href="#C_v2" x="180" y="0"/>
+  <use xlink:href="#C_v2" x="360" y="0"/>
+  <use xlink:href="#C_v2" x="180" y="45"/>
+  <use xlink:href="#C_v2" x="360" y="45"/>
+  <use xlink:href="#C_v2" x="180" y="90"/>
+  <use xlink:href="#C_v2" x="360" y="90"/>
+  <use xlink:href="#C_v2" x="180" y="135"/>
+  <use xlink:href="#C_v2" x="360" y="135"/>
+  <use xlink:href="#C_v2" x="180" y="180"/>
+  <use xlink:href="#C_v2" x="360" y="180"/>
+  <use xlink:href="#C_v2" x="495" y="180"/>
+  <use xlink:href="#C_v2" x="540" y="180"/>
+  <use xlink:href="#C_v2" x="585" y="180"/>
+  <use xlink:href="#C_v2" x="630" y="180"/>
+  <use xlink:href="#C_v2" x="675" y="180"/>
+  <use xlink:href="#C_v2" x="720" y="180"/>
+  <use xlink:href="#C_v2" x="180" y="225"/>
+  <use xlink:href="#C_v2" x="225" y="225"/>
+  <use xlink:href="#C_v2" x="360" y="225"/>
+  <use xlink:href="#C_v2" x="450" y="225"/>
+  <use xlink:href="#C_v2" x="495" y="225"/>
+  <use xlink:href="#C_v2" x="225" y="270"/>
+  <use xlink:href="#C_v2" x="270" y="270"/>
+  <use xlink:href="#C_v2" x="360" y="270"/>
+  <use xlink:href="#C_v2" x="405" y="270"/>
+  <use xlink:href="#C_v2" x="450" y="270"/>
+  <use xlink:href="#C_v2" x="270" y="315"/>
+  <use xlink:href="#C_v2" x="315" y="315"/>
+  <use xlink:href="#C_v2" x="360" y="315"/>
+  <use xlink:href="#C_v2" x="405" y="315"/>
+  <use xlink:href="#C_v2" x="0" y="360"/>
+  <use xlink:href="#C_v2" x="45" y="360"/>
+  <use xlink:href="#C_v2" x="90" y="360"/>
+  <use xlink:href="#C_v2" x="135" y="360"/>
+  <use xlink:href="#C_v2" x="180" y="360"/>
+  <use xlink:href="#C_v2" x="225" y="360"/>
+  <use xlink:href="#C_v2" x="270" y="360"/>
+  <use xlink:href="#C_v2" x="315" y="360"/>
+  <use xlink:href="#C_v2" x="405" y="360"/>
+  <use xlink:href="#C_v2" x="450" y="360"/>
+  <use xlink:href="#C_v2" x="495" y="360"/>
+  <use xlink:href="#C_v2" x="540" y="360"/>
+  <use xlink:href="#C_v2" x="585" y="360"/>
+  <use xlink:href="#C_v2" x="630" y="360"/>
+  <use xlink:href="#C_v2" x="675" y="360"/>
+  <use xlink:href="#C_v2" x="720" y="360"/>
+  <use xlink:href="#C_v2" x="315" y="405"/>
+  <use xlink:href="#C_v2" x="360" y="405"/>
+  <use xlink:href="#C_v2" x="405" y="405"/>
+  <use xlink:href="#C_v2" x="450" y="405"/>
+  <use xlink:href="#C_v2" x="270" y="450"/>
+  <use xlink:href="#C_v2" x="315" y="450"/>
+  <use xlink:href="#C_v2" x="360" y="450"/>
+  <use xlink:href="#C_v2" x="450" y="450"/>
+  <use xlink:href="#C_v2" x="495" y="450"/>
+  <use xlink:href="#C_v2" x="225" y="495"/>
+  <use xlink:href="#C_v2" x="270" y="495"/>
+  <use xlink:href="#C_v2" x="360" y="495"/>
+  <use xlink:href="#C_v2" x="495" y="495"/>
+  <use xlink:href="#C_v2" x="540" y="495"/>
+  <use xlink:href="#C_v2" x="0" y="540"/>
+  <use xlink:href="#C_v2" x="45" y="540"/>
+  <use xlink:href="#C_v2" x="90" y="540"/>
+  <use xlink:href="#C_v2" x="135" y="540"/>
+  <use xlink:href="#C_v2" x="180" y="540"/>
+  <use xlink:href="#C_v2" x="225" y="540"/>
+  <use xlink:href="#C_v2" x="360" y="540"/>
+  <use xlink:href="#C_v2" x="540" y="540"/>
+  <use xlink:href="#C_v2" x="360" y="585"/>
+  <use xlink:href="#C_v2" x="540" y="585"/>
+  <use xlink:href="#C_v2" x="360" y="630"/>
+  <use xlink:href="#C_v2" x="540" y="630"/>
+  <use xlink:href="#C_v2" x="360" y="675"/>
+  <use xlink:href="#C_v2" x="540" y="675"/>
+  <use xlink:href="#C_v2" x="360" y="720"/>
+  <use xlink:href="#C_v2" x="540" y="720"/>
+</svg>
