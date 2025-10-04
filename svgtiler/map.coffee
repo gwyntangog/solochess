@@ -191,6 +191,7 @@ pieces =
     </g>
   '|': null  # for lines to infinity
 pieces.v = pieces.p  # vertex pawns
+pieces.s = pieces.q  # special queen
 
 ## Hashed backgrounds:
 #backgrounds =
@@ -252,6 +253,13 @@ drawGraph = ->
           longMove.call @, -1, +1
         ]
       when 'q'
+        neighbors = [
+          longMove.call @, +1, 0
+          longMove.call @, 0, +1
+          longMove.call @, +1, +1
+          longMove.call @, -1, +1
+        ]
+      when 's'
         neighbors = [
           longMove.call @, +1, 0
           longMove.call @, 0, +1
