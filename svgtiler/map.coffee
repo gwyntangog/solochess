@@ -246,10 +246,18 @@ drawGraph = ->
     switch graph
       when 'k'
         neighbors = [[-1, +1], [0, +1], [+1, 0], [+1, +1]]
-      when 'f'
+      when 'f' #ferz
         neighbors = [[-1, +1], [+1, +1]]
+      when 'w' #wazir
+        neighbors = [[0, +1], [+1, 0]]
       when 'n'
         neighbors = [[-2, +1], [-1, +2], [+1, +2], [+2, +1]]
+      when 'c' #camel
+        neighbors = [[-3, +1], [-1, +3], [+1, +3], [+3, +1]]
+      when 'z' #zebra
+        neighbors = [[-3, +2], [-2, +3], [+2, +3], [+3, +2]]
+      when 'g' #giraffe
+        neighbors = [[-4, +1], [-1, +4], [+1, +4], [+4, +1]]
       when 'p'
         neighbors = [[-1, +1], [+1, +1]]
       when 'r'
