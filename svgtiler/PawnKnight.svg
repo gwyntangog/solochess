@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 405 315" width="405" height="315" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="_20" width="45" height="45" overflow="visible">
+    <rect width="45" height="45" fill="#eee"/>
+  </symbol>
+  <symbol id="_20_v1" width="45" height="45" overflow="visible">
+    <rect width="45" height="45" fill="#ccc"/>
+  </symbol>
+  <symbol id="P" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="112.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="P_v1" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="112.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+    <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="P_v2" width="45" height="45" overflow="visible">
+    <path d="M 22,9 C 19.79,9 18,10.79 18,13 C 18,13.89 18.29,14.71 18.78,15.38 C 16.83,16.5 15.5,18.59 15.5,21 C 15.5,23.03 16.44,24.84 17.91,26.03 C 14.91,27.09 10.5,31.58 10.5,39.5 L 33.5,39.5 C 33.5,31.58 29.09,27.09 26.09,26.03 C 27.56,24.84 28.5,23.03 28.5,21 C 28.5,18.59 27.17,16.5 25.22,15.38 C 25.71,14.71 26,13.89 26,13 C 26,10.79 24.21,9 22,9 z" fill="#000" stroke="#000" fill-rule="nonzero" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4"/>
+  </symbol>
+  <symbol id="P_v3" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="112.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="P_v4" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="-22.5" y2="112.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="P_v5" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="P_v6" width="45" height="45" overflow="visible">
+    <line x1="22.5" y1="22.5" x2="112.5" y2="67.5" stroke="hsl(286,65%,60%)" stroke-width="7" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="N" width="45" height="45" overflow="visible">
+    <g fill-rule="evenodd" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4">
+      <path d="M 22,10 C 32.5,11 38.5,18 38,39 L 15,39 C 15,30 25,32.5 23,18" fill="hsl(286,65%,60%)" stroke="#000"/>
+      <path d="M 24,18 C 24.38,20.91 18.45,25.37 16,27 C 13,29 13.18,31.34 11,31 C 9.958,30.06 12.41,27.96 11,28 C 10,28 11.19,29.23 10,30 C 9,30 5.997,31 6,26 C 6,24 12,14 12,14 C 12,14 13.89,12.1 14,10.5 C 13.27,9.506 13.5,8.5 13.5,7.5 C 14.5,6.5 16.5,10 16.5,10 L 18.5,10 C 18.5,10 19.28,8.008 21,7 C 22,7 22,10 22,10" fill="hsl(286,65%,60%)" stroke="#000"/>
+      <path d="M 9.5 25.5 A 0.5 0.5 0 1 1 8.5,25.5 A 0.5 0.5 0 1 1 9.5 25.5 z" fill="#000" stroke="#000"/>
+      <path d="M 15 15.5 A 0.5 1.5 0 1 1  14,15.5 A 0.5 1.5 0 1 1  15 15.5 z" transform="matrix(0.866,0.5,-0.5,0.866,9.693,-5.173)" fill="#000" stroke="#000"/>
+    </g>
+  </symbol>
+  <use xlink:href="#_20" x="0" y="0"/>
+  <use xlink:href="#_20_v1" x="45" y="0"/>
+  <use xlink:href="#_20" x="90" y="0"/>
+  <use xlink:href="#_20_v1" x="135" y="0"/>
+  <use xlink:href="#_20" x="180" y="0"/>
+  <use xlink:href="#_20_v1" x="225" y="0"/>
+  <use xlink:href="#_20" x="270" y="0"/>
+  <use xlink:href="#_20_v1" x="315" y="0"/>
+  <use xlink:href="#_20" x="360" y="0"/>
+  <use xlink:href="#_20_v1" x="0" y="45"/>
+  <use xlink:href="#_20" x="45" y="45"/>
+  <use xlink:href="#_20_v1" x="90" y="45"/>
+  <use xlink:href="#_20" x="135" y="45"/>
+  <use xlink:href="#_20_v1" x="180" y="45"/>
+  <use xlink:href="#_20" x="225" y="45"/>
+  <use xlink:href="#_20_v1" x="270" y="45"/>
+  <use xlink:href="#_20" x="315" y="45"/>
+  <use xlink:href="#_20_v1" x="360" y="45"/>
+  <use xlink:href="#_20" x="0" y="90"/>
+  <use xlink:href="#_20_v1" x="45" y="90"/>
+  <use xlink:href="#_20" x="90" y="90"/>
+  <use xlink:href="#_20_v1" x="135" y="90"/>
+  <use xlink:href="#_20" x="180" y="90"/>
+  <use xlink:href="#_20_v1" x="225" y="90"/>
+  <use xlink:href="#_20" x="270" y="90"/>
+  <use xlink:href="#_20_v1" x="315" y="90"/>
+  <use xlink:href="#_20" x="360" y="90"/>
+  <use xlink:href="#_20_v1" x="0" y="135"/>
+  <use xlink:href="#_20" x="45" y="135"/>
+  <use xlink:href="#_20_v1" x="90" y="135"/>
+  <use xlink:href="#_20" x="135" y="135"/>
+  <use xlink:href="#_20_v1" x="180" y="135"/>
+  <use xlink:href="#_20" x="225" y="135"/>
+  <use xlink:href="#_20_v1" x="270" y="135"/>
+  <use xlink:href="#_20" x="315" y="135"/>
+  <use xlink:href="#_20_v1" x="360" y="135"/>
+  <use xlink:href="#_20" x="0" y="180"/>
+  <use xlink:href="#_20_v1" x="45" y="180"/>
+  <use xlink:href="#_20" x="90" y="180"/>
+  <use xlink:href="#_20_v1" x="135" y="180"/>
+  <use xlink:href="#_20" x="180" y="180"/>
+  <use xlink:href="#_20_v1" x="225" y="180"/>
+  <use xlink:href="#_20" x="270" y="180"/>
+  <use xlink:href="#_20_v1" x="315" y="180"/>
+  <use xlink:href="#_20" x="360" y="180"/>
+  <use xlink:href="#_20_v1" x="0" y="225"/>
+  <use xlink:href="#_20" x="45" y="225"/>
+  <use xlink:href="#_20_v1" x="90" y="225"/>
+  <use xlink:href="#_20" x="135" y="225"/>
+  <use xlink:href="#_20_v1" x="180" y="225"/>
+  <use xlink:href="#_20" x="225" y="225"/>
+  <use xlink:href="#_20_v1" x="270" y="225"/>
+  <use xlink:href="#_20" x="315" y="225"/>
+  <use xlink:href="#_20_v1" x="360" y="225"/>
+  <use xlink:href="#_20" x="0" y="270"/>
+  <use xlink:href="#_20_v1" x="45" y="270"/>
+  <use xlink:href="#_20" x="90" y="270"/>
+  <use xlink:href="#_20_v1" x="135" y="270"/>
+  <use xlink:href="#_20" x="180" y="270"/>
+  <use xlink:href="#_20_v1" x="225" y="270"/>
+  <use xlink:href="#_20" x="270" y="270"/>
+  <use xlink:href="#_20_v1" x="315" y="270"/>
+  <use xlink:href="#_20" x="360" y="270"/>
+  <use xlink:href="#P" x="180" y="0"/>
+  <use xlink:href="#P" x="45" y="45"/>
+  <use xlink:href="#P" x="270" y="45"/>
+  <use xlink:href="#P" x="135" y="90"/>
+  <use xlink:href="#P_v3" x="360" y="90"/>
+  <use xlink:href="#P_v5" x="0" y="135"/>
+  <use xlink:href="#P" x="225" y="135"/>
+  <use xlink:href="#P_v5" x="90" y="180"/>
+  <use xlink:href="#P_v3" x="315" y="180"/>
+  <use xlink:href="#P_v5" x="180" y="225"/>
+  <use xlink:href="#P_v1" x="180" y="0"/>
+  <use xlink:href="#P_v1" x="45" y="45"/>
+  <use xlink:href="#P_v1" x="270" y="45"/>
+  <use xlink:href="#P_v1" x="135" y="90"/>
+  <use xlink:href="#P_v4" x="360" y="90"/>
+  <use xlink:href="#P_v6" x="0" y="135"/>
+  <use xlink:href="#P_v1" x="225" y="135"/>
+  <use xlink:href="#P_v6" x="90" y="180"/>
+  <use xlink:href="#P_v4" x="315" y="180"/>
+  <use xlink:href="#P_v6" x="180" y="225"/>
+  <use xlink:href="#P_v2" x="180" y="0"/>
+  <use xlink:href="#P_v2" x="45" y="45"/>
+  <use xlink:href="#P_v2" x="270" y="45"/>
+  <use xlink:href="#P_v2" x="135" y="90"/>
+  <use xlink:href="#P_v2" x="360" y="90"/>
+  <use xlink:href="#P_v2" x="0" y="135"/>
+  <use xlink:href="#P_v2" x="225" y="135"/>
+  <use xlink:href="#P_v2" x="90" y="180"/>
+  <use xlink:href="#P_v2" x="315" y="180"/>
+  <use xlink:href="#P_v2" x="180" y="225"/>
+  <use xlink:href="#N" x="270" y="270"/>
+</svg>
