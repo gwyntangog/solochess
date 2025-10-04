@@ -132,7 +132,7 @@
 \date{}
 
 
-\begin{document} 
+\begin{document}
 \maketitle
 
 \begin{abstract}
@@ -162,7 +162,7 @@
 The classic two-player game of Chess is PSPACE-complete~\cite{storer1983complexity} or EXPTIME-complete~\cite{fraenkel1981computing} depending on whether the number of moves is limited to a polynomial.
 Recent work analyzes Chess-based puzzles, including Helpmate Chess and Retrograde Chess which are PSPACE-complete \cite{brunner2020complexity} and Solo Chess which is NP-complete \cite{aravind2022chess}.
 In this paper, we extend the analysis of Solo Chess to unbounded moves per piece.
-%In particular they show \solochessn{S,2} with only rooks, bishops, or queens is NP-complete; \solochessn{\pawn,2} is solvable in linear time; and the graph capture game, which generalizes the movement of Knights and Kings, is NP-complete. 
+%In particular they show \solochessn{S,2} with only rooks, bishops, or queens is NP-complete; \solochessn{\pawn,2} is solvable in linear time; and the graph capture game, which generalizes the movement of Knights and Kings, is NP-complete.
 
 First we review standard Solo Chess as implemented on chess.com
 \cite{soloChess}.
@@ -399,7 +399,7 @@ then $\Break{m}{L}$ is a sequence of \emph{valid} moves.
   Let $r$ be the location of the final piece in a valid solution.
   \begin{enumerate}
   \item For every location $v$ other than $r$, there is exactly one move out of $v$ in the solution.
-  \item 
+  \item
     Let $v_0, v_1, \dots$ be the sequence of locations obtained by repeatedly following the unique move out of $v_i$ in the solution, starting at $v_0$.
     Then the sequence is finite and terminates at~$r$.
   \end{enumerate}
@@ -411,7 +411,7 @@ then $\Break{m}{L}$ is a sequence of \emph{valid} moves.
     contradicting that the solution is valid.
     After the first such move, $v$ is forever empty,
     so there cannot be a second move out of $v$.
-  \item 
+  \item
     Suppose not.
     Because the number of locations is finite,
     the sequence must enter a cycle among locations other than~$r$.
@@ -428,7 +428,7 @@ then $\Break{m}{L}$ is a sequence of \emph{valid} moves.
 In this section, we prove that Solo Chess puzzles with any single piece type
 is solvable in polynomial time, even for the very general piece types
 defined in Section~\ref{Generalized Chess Model}.
-%The main idea of the proof is that in a solution every piece (except the last one) is captured at some point on the board. Until a piece captured it follows a path of capturing other pieces. Thus looking at a graph of which pieces can capture each other it looks like one is rolling up paths forming a tree until only a single vertex is left. 
+%The main idea of the proof is that in a solution every piece (except the last one) is captured at some point on the board. Until a piece captured it follows a path of capturing other pieces. Thus looking at a graph of which pieces can capture each other it looks like one is rolling up paths forming a tree until only a single vertex is left.
 
 \begin{theorem} \label{thm:one}
   \solochessn{\{T\}} can be solved in polynomial time
@@ -567,7 +567,7 @@ in \(\ICG(V, B)\).
   we obtain a directed walk in \(\ICG(V, B)\) from \(\ell_0\) to \(\ell_m\).
 \end{proof}
 \begin{corollary}
-  \label{cor:break-icg-walk}  
+  \label{cor:break-icg-walk}
   Let \(V\) and \(B\) be disjoint sets of locations,
   and let \(m_0, m_1, \ldots, m_k \in T\) be a sequence of villain moves
   such that
@@ -1063,8 +1063,8 @@ where the special piece sets variables and satisfies clauses.
 
 
 %We  study the one-king restriction, where only one king is allowed on
-%the board and it must remain on the board (cannot be captured). 
-%We denote this restricted king piece by $\oneking$. We define this analogously for any other piece such as $\onepawn$ where there is one pawn that must remain on the board. 
+%the board and it must remain on the board (cannot be captured).
+%We denote this restricted king piece by $\oneking$. We define this analogously for any other piece such as $\onepawn$ where there is one pawn that must remain on the board.
 %We prove
 %two positive results and
 %three negative results,
@@ -1233,7 +1233,7 @@ which must then capture all the other pieces, requiring a Hamiltonian path.
 	\caption{Placing pawns and one bishop to simulate Hamiltonian Path in a maximum-degree-$3$ graph with specified start and end vertices, by rotating the construction in Figure~\ref{fig:PawnRookNP}.}
 	\label{fig:BishopPawnNP}
 \end{figure}
-	
+
 \begin{corollary}\label{cor:oneBishopRook}\label{cor:oneQueenRook}
   For any $T \in \{\bishop, \queen\}$,
 	\solochessn{\{T^1, \rook\}} and \solochessn{\{T, \rook\}} are NP-hard.
@@ -1251,7 +1251,7 @@ which must then capture all the other pieces, requiring a Hamiltonian path.
 \end{proof}
 
 The next reduction is also from Hamiltonian Path,
-but does not use the same framework as the previous reductions. 
+but does not use the same framework as the previous reductions.
 
 \begin{theorem} \label{thm:king-pawn}
 	\solochessn{\{\oneking,\pawn\}} and
