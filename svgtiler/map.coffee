@@ -94,6 +94,14 @@ pieces =
       fill={color.fill} stroke="#000" fill-rule="nonzero"
       stroke-width="1.5" stroke-linecap="round" stroke-linejoin="miter"
       stroke-miterlimit="4" />
+  f: (color) ->
+    # based on https://commons.wikimedia.org/wiki/File:Chess_pdl45.svg and https://commons.wikimedia.org/wiki/File:Chess_pll45.svg by Cburnett
+    <path
+      d="M 22,9 C 19.79,9 18,10.79 18,13 C 18,13.89 18.29,14.71 18.78,15.38 C 16.83,16.5 15.5,18.59 15.5,21 C 15.5,23.03 16.44,24.84 17.91,26.03 C 14.91,27.09 10.5,31.58 10.5,39.5 L 33.5,39.5 C 33.5,31.58 29.09,27.09 26.09,26.03 C 27.56,24.84 28.5,23.03 28.5,21 C 28.5,18.59 27.17,16.5 25.22,15.38 C 25.71,14.71 26,13.89 26,13 C 26,10.79 24.21,9 22,9 z"
+      fill={color.fill} stroke="#000" fill-rule="nonzero"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="miter"
+      stroke-miterlimit="4"
+      transform="rotate(180 22 22)"/>
   q: (color) ->
     # based on https://commons.wikimedia.org/wiki/File:Chess_qdl45.svg and https://commons.wikimedia.org/wiki/File:Chess_qll45.svg by Cburnett
     <g fill-rule="evenodd" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4">
@@ -238,6 +246,8 @@ drawGraph = ->
     switch graph
       when 'k'
         neighbors = [[-1, +1], [0, +1], [+1, 0], [+1, +1]]
+      when 'f'
+        neighbors = [[-1, +1], [+1, +1]]
       when 'n'
         neighbors = [[-2, +1], [-1, +2], [+1, +2], [+2, +1]]
       when 'p'
