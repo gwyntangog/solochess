@@ -14,3 +14,7 @@ gen3TRVBWazirHeroCamelVillainSample
 gen4ZebraHeroQueenVillainSample
 
 gen5CamelRiderHeroFerzVillainSample
+
+Gwyn's PDF command:
+
+svgtiler --inkscape "C:\Program Files\Inkscape\bin\inkscape.exe"
