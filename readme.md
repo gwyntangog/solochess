@@ -17,4 +17,5 @@ gen5CamelRiderHeroFerzVillainSample
 
 Gwyn's PDF command:
 
+rm -f *pdf
 svgtiler --inkscape "C:\Program Files\Inkscape\bin\inkscape.exe"
