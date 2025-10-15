@@ -360,6 +360,7 @@ pieces =
   '|': null  # for lines to infinity
 pieces.v = pieces.p  # vertex pawns
 pieces.s = pieces.q  # special queen
+pieces.j = pieces.k  # special queen
 
 ## Hashed backgrounds:
 #backgrounds =
