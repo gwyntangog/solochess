@@ -403,7 +403,11 @@ drawGraph = ->
   edges1 = []
   edges2 = []
   for graph, graphIndex in graphs[..]
-    color = graphColors[graphIndex % graphColors.length]
+    if @key.toLowerCase() == 's'
+      color = 'hsl(0,65%,50%)'
+      # color =  'hsl(200,65%,50%)'
+    else
+      color = graphColors[graphIndex % graphColors.length]
     switch graph
       when 'k'
         neighbors = [[-1, +1], [0, +1], [+1, 0], [+1, +1]]
@@ -446,12 +450,18 @@ drawGraph = ->
           longMove.call @, +3, +1
         ]
       when 's'
-        neighbors = [
-          longMove.call @, +1, 0
-          longMove.call @, 0, +1
-          longMove.call @, +1, +1
-          longMove.call @, -1, +1
-        ]
+        if @key == 's'
+        # and @neighbor == "s"
+          neighbors = [
+            longMove.call @, +1, 0
+            longMove.call @, 0, +1
+            longMove.call @, 0, -1
+            longMove.call @, -1, 0
+            longMove.call @, +1, +1
+            longMove.call @, -1, +1
+            longMove.call @, -1, -1
+            longMove.call @, +1, -1
+          ]
       else
         console.warn "Unknown piece type for graph: #{graph}"
         graphs = (g for g in graphs when g != graph)
